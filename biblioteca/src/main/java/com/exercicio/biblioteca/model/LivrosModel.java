@@ -20,7 +20,7 @@ public class LivrosModel {
     private Long id;
     @Column(nullable = false)
     private String nome;
-    @Column
+    @Column//adicionou a propriedade coluna, mas não disse para o que era.
     private String autor;
     @Column(length = 20)
     private String data;
