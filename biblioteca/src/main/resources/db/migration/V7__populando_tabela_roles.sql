@@ -1,3 +1,0 @@
-INSERT INTO role(id_role, role)
-VALUES (1, 'ROLE_BIBLIOTECARIO'),
-(2, 'ROLE_USER');
